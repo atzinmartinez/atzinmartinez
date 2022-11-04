@@ -1,6 +1,7 @@
 ### Hi there 👋
+<img src="https://user-images.githubusercontent.com/108831799/200049766-3617db89-cddb-4137-afa5-ae01a5cc9397.png" alt="banner">
 
-<!--
+
 **atzinmartinez/atzinmartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
